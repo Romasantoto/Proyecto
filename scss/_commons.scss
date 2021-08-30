@@ -1,0 +1,26 @@
+//variables
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+$bg-dark: #3B3434;
+$bg-info: #1C67b4;
+$bg-sucess: #2A9425;
+
+$w-25: 25%;
+$w-50: 50%;
+$w-100: 100%;
+
+$d-flex: right;
+$d-block: block;
+
+$width: 100%;
+$height: 600px;
+
+.countainer-fluid:
+
+    width: ($width: -2%)/2;
+    height: $height: /2;
+
